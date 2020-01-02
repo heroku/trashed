@@ -1,3 +1,7 @@
+## Master (unrleased)
+
+- Fix warnings in Ruby 2.7
+
 ## 0.0.7
 
 - Report when an app is using Puma
