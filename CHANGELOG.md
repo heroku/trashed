@@ -1,6 +1,8 @@
-## Master (unrleased)
+## HEAD (unreleased)
 
-- Handle half-initialize Puma failure on boot
+## 0.0.9
+
+- Handle half-initialize Puma failure on boot (https://github.com/heroku/barnes/pull/37)
 
 ## 0.0.8
 
